@@ -1,4 +1,4 @@
-# Unhinted Iosevkafixed WebFont 34.2.1
+# Unhinted Iosevkafixed WebFont 34.3.0
 
 ## How to use
 
